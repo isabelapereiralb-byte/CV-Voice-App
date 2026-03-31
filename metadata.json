@@ -1,0 +1,7 @@
+{
+  "name": "Isabela's Voice Agent",
+  "description": "A professional voice agent for Isabela Pereira, specializing in fashion business and communication.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
